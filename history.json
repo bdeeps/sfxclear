@@ -1,0 +1,935 @@
+{
+ "title": "The history of practical special effects",
+ "tagline": "130 years of real tricks on real sets, from a dummy swapped mid-shot in 1895 to a real jumbo jet crashed for Tenet.",
+ "intro": "Almost as soon as films could be shown, film-makers learned to fool the camera: stop it, swap something, start again. Craftspeople then built mirrors, miniatures, puppets, rotating rooms and mechanical monsters, while stunt teams learned to make danger look real and stay safe. Computers took over many shots in the 1990s, but lots of directors still prefer effects you can touch, because actors and audiences can feel the difference.",
+ "eras": [
+  {
+   "id": "tricks",
+   "name": "Camera tricks",
+   "from": 1895,
+   "to": 1926,
+   "color": "#c49bff",
+   "summary": "Stop the camera, swap something, start again. Magicians and early film-makers discover that the camera can be fooled."
+  },
+  {
+   "id": "studio",
+   "name": "Studio craftsmen",
+   "from": 1927,
+   "to": 1959,
+   "color": "#ffb547",
+   "summary": "Big studios hire effects departments. Mirrors, miniatures, stop-motion puppets, fake storms and huge sets become a craft of their own."
+  },
+  {
+   "id": "monsters",
+   "name": "Monsters and big stunts",
+   "from": 1960,
+   "to": 1989,
+   "color": "#ff7a59",
+   "summary": "Rubber, foam latex and machinery bring creatures to life. Stunts and sets grow bigger, and hard lessons make safety part of the job."
+  },
+  {
+   "id": "hybrid",
+   "name": "Animatronics meets CGI",
+   "from": 1990,
+   "to": 2009,
+   "color": "#5ce1a9",
+   "summary": "Computers arrive, but the best films mix them with real robots, models and make-up so each covers the other's weak spots."
+  },
+  {
+   "id": "revival",
+   "name": "The practical revival",
+   "from": 2010,
+   "to": 2026,
+   "color": "#8ef0ff",
+   "summary": "Some directors go back to real vehicles, real sets and real explosions, filmed safely, and use computers mostly to tidy up."
+  }
+ ],
+ "events": [
+  {
+   "year": 1895,
+   "date": "28 August 1895",
+   "era": "tricks",
+   "art": "scissors",
+   "key": true,
+   "title": "A beheading that never happened",
+   "who": "Alfred Clark, for the Edison Manufacturing Company",
+   "where": "Edison company, New Jersey",
+   "country": "United States",
+   "text": "The Execution of Mary Stuart lasts about 18 seconds. Just before the axe falls, the camera was stopped, the actor was swapped for a dummy, and filming started again. On screen the swap is invisible.",
+   "why": "It is the first known film to use a special effect, the stop trick or substitution splice.",
+   "box": "compare",
+   "sources": [
+    2,
+    0
+   ]
+  },
+  {
+   "year": 1896,
+   "date": "1896",
+   "era": "tricks",
+   "art": "clapper",
+   "key": true,
+   "title": "The Vanishing Lady",
+   "who": "Georges Méliès; Jehanne d'Alcy",
+   "where": "Montreuil-sous-Bois, near Paris",
+   "country": "France",
+   "text": "Stage magician Georges Méliès filmed a trick where a woman under a cloth vanishes and a skeleton appears. He used the substitution splice instead of a trapdoor. Méliès later said he found the trick when his camera jammed, but historians think he probably saw it in an Edison film first.",
+   "why": "Méliès turned a simple camera trick into a way of doing real magic on film.",
+   "box": "compare",
+   "sources": [
+    3,
+    4
+   ]
+  },
+  {
+   "year": 1896,
+   "date": "September 1896 onwards",
+   "era": "tricks",
+   "art": "studio",
+   "title": "A studio made of glass",
+   "who": "Georges Méliès",
+   "where": "Montreuil-sous-Bois, near Paris",
+   "country": "France",
+   "text": "Méliès built a glass-walled studio in his garden so that sunlight could flood in for filming. Inside he built painted sets, trapdoors and stage machinery, just like a theatre.",
+   "why": "It was one of the first buildings made for creating film effects on purpose.",
+   "box": "",
+   "sources": [
+    4,
+    5
+   ]
+  },
+  {
+   "year": 1902,
+   "date": "1902",
+   "era": "tricks",
+   "art": "cinema",
+   "title": "A rocket in the Moon's eye",
+   "who": "Georges Méliès",
+   "where": "Montreuil-sous-Bois, near Paris",
+   "country": "France",
+   "text": "A Trip to the Moon used painted scenery, costumes, stage machines and camera tricks to send explorers to the Moon. The shot of the capsule landing in the Moon's face became one of the most famous images in film history.",
+   "why": "It showed that effects could carry a whole story, not just a single surprise.",
+   "box": "",
+   "sources": [
+    4,
+    5
+   ]
+  },
+  {
+   "year": 1927,
+   "date": "January 1927",
+   "era": "studio",
+   "art": "window",
+   "title": "Mirrors that build a city",
+   "who": "Eugen Schüfftan, for Fritz Lang",
+   "where": "Babelsberg, near Berlin",
+   "country": "Germany",
+   "text": "For Metropolis, Schüfftan placed a specially made mirror at an angle in front of the camera. Part of the mirror reflected a small model city, and part was scraped clear so the camera could see real actors behind it. In one shot, actors seemed to stand inside giant buildings.",
+   "why": "The Schüfftan process joined miniatures and live actors in the camera itself, and was still used decades later.",
+   "box": "compare",
+   "sources": [
+    6,
+    7,
+    40
+   ]
+  },
+  {
+   "year": 1933,
+   "date": "2 March 1933",
+   "era": "studio",
+   "art": "puppet",
+   "key": true,
+   "title": "King Kong climbs the Empire State",
+   "who": "Willis H. O'Brien; Marcel Delgado",
+   "where": "RKO studios, Los Angeles",
+   "country": "United States",
+   "text": "The Kong that climbs the skyscraper was a puppet only about 14 to 18 inches tall, made of a metal skeleton padded with cotton, latex and rabbit fur. O'Brien's team moved it a tiny bit for every frame, a method called stop-motion. For close-ups they also built a giant mechanical head covered in bearskins.",
+   "why": "It proved a puppet could become a movie star that audiences cared about.",
+   "box": "creatures",
+   "sources": [
+    8,
+    9
+   ]
+  },
+  {
+   "year": 1937,
+   "date": "1937",
+   "era": "studio",
+   "art": "eye",
+   "title": "India's invisible man",
+   "who": "Babubhai Mistry",
+   "where": "Bombay",
+   "country": "India",
+   "text": "For the film Khwab Ki Duniya, Babubhai Mistry made objects seem to move on their own by using black threads that the camera could not see. People nicknamed him Kala Dhaga, meaning black thread. He went on to direct mythological films full of trick photography.",
+   "why": "He is remembered as Indian cinema's first credited trick photographer.",
+   "box": "",
+   "sources": [
+    18
+   ]
+  },
+  {
+   "year": 1939,
+   "date": "1939",
+   "era": "studio",
+   "art": "horse",
+   "title": "Falling under the horses",
+   "who": "Yakima Canutt, for John Ford",
+   "where": "California",
+   "country": "United States",
+   "text": "In Stagecoach, stuntman Yakima Canutt dropped from a moving coach, passed beneath the horses and climbed back on. He also invented safety gear for stunt riders, such as special stirrups and cable systems for controlled falls.",
+   "why": "Canutt showed that great stunts are planned and engineered, not just brave.",
+   "box": "rigs",
+   "sources": [
+    43
+   ]
+  },
+  {
+   "year": 1939,
+   "date": "August 1939",
+   "era": "studio",
+   "art": "wind",
+   "key": true,
+   "title": "A tornado made of cloth",
+   "who": "A. Arnold Gillespie, MGM",
+   "where": "MGM studios, Culver City, California",
+   "country": "United States",
+   "text": "For The Wizard of Oz, Gillespie's team tried a rubber cone first, but it was too stiff. The final twister was a long muslin sock, about 35 feet according to accounts, hung from a moving crane and twisted as it moved. Dust and wind machines finished the effect.",
+   "why": "A simple piece of fabric became one of the most convincing storms in film history.",
+   "box": "weather",
+   "sources": [
+    10,
+    11,
+    45
+   ]
+  },
+  {
+   "year": 1940,
+   "date": "29 February 1940",
+   "era": "studio",
+   "art": "spotlight",
+   "title": "The first Special Effects Oscar",
+   "who": "Fred Sersen; E. H. Hansen",
+   "where": "Ambassador Hotel, Los Angeles",
+   "country": "United States",
+   "text": "At the 12th Academy Awards, honouring films of 1939, the Academy gave its first competitive award for Special Effects. It went to The Rains Came, a film with a huge earthquake and flood.",
+   "why": "Effects work was now officially recognised as its own art.",
+   "box": "",
+   "sources": [
+    12,
+    44
+   ]
+  },
+  {
+   "year": 1951,
+   "date": "March 1951",
+   "era": "studio",
+   "art": "person",
+   "title": "Dancing on the ceiling",
+   "who": "Fred Astaire; Stanley Donen; John Arnold",
+   "where": "MGM studios, Culver City, California",
+   "country": "United States",
+   "text": "In Royal Wedding, Fred Astaire seems to dance up the walls and across the ceiling. The whole room was built inside a turning drum, and the camera was fixed to it so it turned with the room. On screen, the room looks still and Astaire looks weightless.",
+   "why": "A rotating set tricks your sense of up and down without any camera trickery at all.",
+   "box": "rigs",
+   "sources": [
+    14
+   ]
+  },
+  {
+   "year": 1959,
+   "date": "November 1959",
+   "era": "studio",
+   "art": "horse",
+   "title": "The chariot race",
+   "who": "Yakima Canutt; Andrew Marton; A. Arnold Gillespie",
+   "where": "Cinecittà Studios, Rome",
+   "country": "Italy",
+   "text": "Ben-Hur's chariot race was filmed on an arena covering 18 acres, the largest film set ever built at that time. The race took five weeks of filming spread over three months. The film went on to win 11 Oscars, including one for special effects.",
+   "why": "It set the standard for real, full-size action that audiences still compare against.",
+   "box": "rigs",
+   "sources": [
+    16,
+    10
+   ]
+  },
+  {
+   "year": 1960,
+   "date": "5 August 1960",
+   "era": "monsters",
+   "art": "window",
+   "title": "A palace of mirrors",
+   "who": "K. Asif; R. D. Mathur",
+   "where": "Mohan Studios, Bombay",
+   "country": "India",
+   "text": "For Mughal-e-Azam, a Sheesh Mahal set about 150 feet long was covered in small Belgian glass mirrors made by workers from Firozabad. It took two years to build. Cinematographer R. D. Mathur tamed the glare with wax on the mirrors and cloth strips to bounce the light for the song Pyar Kiya To Darna Kya.",
+   "why": "It shows how a set and clever lighting can be a special effect on their own.",
+   "box": "",
+   "sources": [
+    15
+   ]
+  },
+  {
+   "year": 1963,
+   "date": "1963",
+   "era": "monsters",
+   "art": "skeleton",
+   "title": "The skeleton army",
+   "who": "Ray Harryhausen",
+   "where": "London and Italy",
+   "country": "United Kingdom",
+   "text": "In Jason and the Argonauts, seven skeleton puppets fight real actors with swords. Harryhausen animated them frame by frame and blended them with the live footage using his Dynamation method. The sequence took over four months to animate.",
+   "why": "It became the most famous stop-motion scene ever, and inspired a generation of film-makers.",
+   "box": "creatures",
+   "sources": [
+    39
+   ]
+  },
+  {
+   "year": 1968,
+   "date": "April 1968",
+   "era": "monsters",
+   "art": "gear",
+   "title": "A spinning spaceship set",
+   "who": "Stanley Kubrick; Vickers-Armstrong Engineering",
+   "where": "MGM-British Studios, Borehamwood",
+   "country": "United Kingdom",
+   "text": "For 2001: A Space Odyssey, engineers built a real rotating wheel about 38 feet across and weighing around 30 tons. Actors walked at the bottom while the wheel turned, so they seemed to run all the way round the ship. It cost about 750,000 dollars.",
+   "why": "It made fake gravity look real by actually turning the whole set.",
+   "box": "rigs",
+   "sources": [
+    17
+   ]
+  },
+  {
+   "year": 1969,
+   "date": "April 1969",
+   "era": "monsters",
+   "art": "muscle",
+   "title": "An Oscar for ape faces",
+   "who": "John Chambers",
+   "where": "Los Angeles",
+   "country": "United States",
+   "text": "Make-up artist John Chambers designed the ape faces for Planet of the Apes, letting actors speak and show emotion through the rubber. There was no make-up Oscar yet, so the Academy gave him an honorary award.",
+   "why": "It showed that make-up effects deserved their own prize, which came in 1982.",
+   "box": "creatures",
+   "sources": [
+    42,
+    26
+   ]
+  },
+  {
+   "year": 1973,
+   "date": "December 1973",
+   "era": "monsters",
+   "art": "person",
+   "title": "The godfather of make-up",
+   "who": "Dick Smith",
+   "where": "New York",
+   "country": "United States",
+   "text": "For The Exorcist, Dick Smith created shocking make-up and body effects for Linda Blair's character. He made masks in several separate pieces instead of one, so actors' faces could move naturally. A young Rick Baker assisted him on the film.",
+   "why": "The way prosthetics are stuck onto faces today comes largely from Smith's methods.",
+   "box": "creatures",
+   "sources": [
+    41,
+    25
+   ]
+  },
+  {
+   "year": 1975,
+   "date": "20 June 1975",
+   "era": "monsters",
+   "art": "waterdrop",
+   "key": true,
+   "title": "Bruce the shark breaks down",
+   "who": "Bob Mattey, for Steven Spielberg",
+   "where": "Martha's Vineyard, Massachusetts",
+   "country": "United States",
+   "text": "Mattey's team built three full-size mechanical sharks powered by air pressure, nicknamed Bruce after Spielberg's lawyer. In salt water the foam skin soaked up water, hoses corroded and frames cracked. The shoot grew from 55 planned days to 159.",
+   "why": "Because the shark rarely worked, Spielberg hid it, and the suspense made Jaws scarier.",
+   "box": "creatures",
+   "sources": [
+    19
+   ]
+  },
+  {
+   "year": 1975,
+   "date": "15 August 1975",
+   "era": "monsters",
+   "art": "car",
+   "title": "Sholay's train robbery",
+   "who": "Ramesh Sippy (director)",
+   "where": "Near Panvel, on the Bombay–Poona railway",
+   "country": "India",
+   "text": "The famous train robbery in Sholay was filmed on a real railway line near Panvel, with riders chasing a moving train. According to accounts of the production, the sequence took more than seven weeks to film.",
+   "why": "It showed Indian audiences that home-grown action could match any Western on screen.",
+   "box": "rigs",
+   "sources": [
+    20
+   ]
+  },
+  {
+   "year": 1977,
+   "date": "1975–1977",
+   "era": "monsters",
+   "art": "plane",
+   "title": "Tiny spaceships, giant battles",
+   "who": "George Lucas; John Dykstra; Industrial Light & Magic",
+   "where": "Van Nuys, California",
+   "country": "United States",
+   "text": "For Star Wars, Lucas set up Industrial Light & Magic in a warehouse in 1975. Its team filmed small model spaceships with the Dykstraflex, a computer-controlled camera that could repeat the same move exactly. The film won six Oscars in 1978, including one for visual effects.",
+   "why": "Motion control let many models be filmed separately and combined into one huge battle.",
+   "box": "compare",
+   "sources": [
+    21,
+    22,
+    13
+   ]
+  },
+  {
+   "year": 1979,
+   "date": "May 1979",
+   "era": "monsters",
+   "art": "spring2",
+   "title": "A creature from Alien",
+   "who": "H. R. Giger; Carlo Rambaldi; Nick Allder; Brian Johnson; Dennis Ayling",
+   "where": "Shepperton Studios, England",
+   "country": "United Kingdom",
+   "text": "Alien's monster was designed by artist H. R. Giger and brought to life with costumes, puppets and mechanical effects. The team won the Oscar for visual effects. Much of the creature stays in shadow, so your imagination fills in the rest.",
+   "why": "It proved a practical creature, shown carefully, can be scarier than one shown in full.",
+   "box": "creatures",
+   "sources": [
+    24,
+    23
+   ]
+  },
+  {
+   "year": 1982,
+   "date": "29 March 1982",
+   "era": "monsters",
+   "art": "palette",
+   "key": true,
+   "title": "The first make-up Oscar",
+   "who": "Rick Baker",
+   "where": "Los Angeles",
+   "country": "United States",
+   "text": "At the 54th Academy Awards, Rick Baker won the first competitive Oscar for Best Makeup for An American Werewolf in London (1981). The man-to-wolf change happens in bright light, using stretching rubber skin and mechanical parts. Baker went on to win seven make-up Oscars, a record.",
+   "why": "Make-up effects finally had an award of their own every year.",
+   "box": "creatures",
+   "sources": [
+    25,
+    26
+   ]
+  },
+  {
+   "year": 1982,
+   "date": "June 1982",
+   "era": "monsters",
+   "art": "wireframe",
+   "title": "The Thing's shape-shifter",
+   "who": "Rob Bottin; Stan Winston",
+   "where": "Universal Studios, California",
+   "country": "United States",
+   "text": "Rob Bottin was just 21 when he led the creature effects for The Thing. He worked for more than a year without a day off and ended up in hospital from exhaustion. Stan Winston helped with one creature and asked that Bottin take the credit.",
+   "why": "Its gooey, impossible creatures are still held up as a high point of hand-made effects.",
+   "box": "creatures",
+   "sources": [
+    27
+   ]
+  },
+  {
+   "year": 1982,
+   "date": "23 July 1982",
+   "era": "monsters",
+   "art": "eye",
+   "title": "A tragedy that changed safety",
+   "who": "Crew of Twilight Zone: The Movie",
+   "where": "Valencia, California",
+   "country": "United States",
+   "text": "During night filming, a helicopter crashed after being hit by debris from special effects explosions. Actor Vic Morrow and two child actors, Myca Dinh Le and Renee Shin-Yi Chen, were killed. Afterwards studios and unions set up safety committees, safety bulletins and hotlines, and aviation rules were extended to film helicopters.",
+   "why": "Modern film sets treat safety as the first rule of any effect, partly because of this loss.",
+   "box": "fire",
+   "sources": [
+    28
+   ]
+  },
+  {
+   "year": 1993,
+   "date": "June 1993",
+   "era": "hybrid",
+   "art": "hydraulic",
+   "key": true,
+   "title": "A life-size T. rex",
+   "who": "Stan Winston Studio, for Steven Spielberg",
+   "where": "Universal Studios, California",
+   "country": "United States",
+   "text": "Stan Winston's team built a full-size robotic T. rex, about 40 feet long and reported to weigh around 9,000 pounds, moved by powerful hydraulics under latex skin. It shared the screen with new computer-made dinosaurs from ILM. The robot was used for close shots, and the computer dinosaurs for running and full-body shots.",
+   "why": "Jurassic Park showed that real robots and CGI work best together.",
+   "box": "creatures",
+   "sources": [
+    29,
+    30,
+    31
+   ]
+  },
+  {
+   "year": 2001,
+   "date": "2001–2003",
+   "era": "hybrid",
+   "art": "building",
+   "title": "Bigatures for Middle-earth",
+   "who": "Richard Taylor; Tania Rodger; Wētā Workshop",
+   "where": "Wellington",
+   "country": "New Zealand",
+   "text": "For The Lord of the Rings, Wētā Workshop built huge, detailed models of places like Minas Tirith and Helm's Deep, some very large. The team called them bigatures. Computers then added armies and blended the models with live action.",
+   "why": "Real models give light and detail that early digital sets struggled to match.",
+   "box": "compare",
+   "sources": [
+    32,
+    13
+   ]
+  },
+  {
+   "year": 2010,
+   "date": "July 2010",
+   "era": "revival",
+   "art": "motor",
+   "title": "The spinning hallway",
+   "who": "Chris Corbould; Guy Hendrix Dyas; Christopher Nolan",
+   "where": "Cardington, Bedfordshire",
+   "country": "United Kingdom",
+   "text": "For Inception, a 100-foot hotel corridor was built inside an old airship hangar. It hung on eight giant rings and could be turned a full circle by two big electric motors. Actors really fought while the room rolled around them.",
+   "why": "It updated the rotating-room idea from Royal Wedding and 2001 for a modern action film.",
+   "box": "rigs",
+   "sources": [
+    33,
+    34
+   ]
+  },
+  {
+   "year": 2015,
+   "date": "May 2015",
+   "era": "revival",
+   "art": "car",
+   "key": true,
+   "title": "Mad Max: Fury Road",
+   "who": "George Miller; Colin Gibson; Guy Norris",
+   "where": "Namibia",
+   "country": "Namibia",
+   "text": "The team built around 150 working vehicles for the desert chases, and only 88 survived filming. Stunt coordinator Guy Norris led more than 150 stunt performers. The film is reported to have done about 90 per cent of its effects for real, then won six Oscars.",
+   "why": "It proved that real vehicles and real stunts could still thrill audiences in the CGI age.",
+   "box": "rigs",
+   "sources": [
+    35
+   ]
+  },
+  {
+   "year": 2020,
+   "date": "August 2020",
+   "era": "revival",
+   "art": "plane",
+   "title": "Crashing a real jumbo jet",
+   "who": "Christopher Nolan; Scott R. Fisher",
+   "where": "Victorville, California",
+   "country": "United States",
+   "text": "For Tenet, the film-makers found that buying a real Boeing 747 was cheaper than building models and adding visual effects. The plane was rolled into a building at an airport, under tight control. Special effects supervisor Scott Fisher oversaw the scene.",
+   "why": "Sometimes the real thing is both cheaper and more convincing than faking it.",
+   "box": "compare",
+   "sources": [
+    36
+   ]
+  },
+  {
+   "year": 2023,
+   "date": "July 2023",
+   "era": "revival",
+   "art": "flame",
+   "title": "An atomic blast without CGI",
+   "who": "Scott R. Fisher; Andrew Jackson; Christopher Nolan",
+   "where": "New Mexico",
+   "country": "United States",
+   "text": "To show the Trinity test in Oppenheimer, the effects team filmed big, carefully controlled fuel explosions at night. They also filmed small experiments with metal particles, balloons and water tanks. Clever camera work made them look vast.",
+   "why": "It showed how scale can be faked with real footage instead of computer images.",
+   "box": "fire",
+   "sources": [
+    37
+   ]
+  }
+ ],
+ "firsts": [
+  {
+   "label": "First film special effect (stop trick)",
+   "value": "1895",
+   "who": "Alfred Clark, The Execution of Mary Stuart"
+  },
+  {
+   "label": "Méliès's first substitution splice",
+   "value": "1896",
+   "who": "Georges Méliès, The Vanishing Lady"
+  },
+  {
+   "label": "Mirror-and-miniature shots in camera",
+   "value": "1927",
+   "who": "Eugen Schüfftan, Metropolis"
+  },
+  {
+   "label": "India's first credited trick photographer",
+   "value": "1937",
+   "who": "Babubhai Mistry, Khwab Ki Duniya"
+  },
+  {
+   "label": "First competitive Special Effects Oscar",
+   "value": "1940",
+   "who": "Fred Sersen and E. H. Hansen, The Rains Came"
+  },
+  {
+   "label": "Largest film set built at the time",
+   "value": "1959",
+   "who": "Ben-Hur chariot arena, 18 acres"
+  },
+  {
+   "label": "Honorary Oscar for stunt safety devices",
+   "value": "1967",
+   "who": "Yakima Canutt"
+  },
+  {
+   "label": "Motion-control camera for model shots",
+   "value": "1977",
+   "who": "John Dykstra and ILM, Star Wars"
+  },
+  {
+   "label": "First competitive Makeup Oscar",
+   "value": "1982",
+   "who": "Rick Baker, An American Werewolf in London"
+  }
+ ],
+ "people": [
+  {
+   "name": "Georges Méliès",
+   "life": "1861 – 1938",
+   "role": "Magician and film-maker",
+   "from": "France",
+   "note": "Made over 500 films full of camera tricks, including A Trip to the Moon."
+  },
+  {
+   "name": "Eugen Schüfftan",
+   "life": "1893 – 1977",
+   "role": "Cinematographer",
+   "from": "Germany",
+   "note": "Invented the mirror trick used in Metropolis; later won an Oscar for The Hustler."
+  },
+  {
+   "name": "Willis H. O'Brien",
+   "life": "1886 – 1962",
+   "role": "Stop-motion animator",
+   "from": "USA",
+   "note": "Animated King Kong and taught Ray Harryhausen."
+  },
+  {
+   "name": "A. Arnold Gillespie",
+   "life": "1899 – 1978",
+   "role": "MGM effects chief",
+   "from": "USA",
+   "note": "Made the Wizard of Oz tornado and won an Oscar for Ben-Hur."
+  },
+  {
+   "name": "Babubhai Mistry",
+   "life": "1918 – 2010",
+   "role": "Trick photographer and director",
+   "from": "India",
+   "note": "Nicknamed Kala Dhaga for his black-thread tricks; later advised TV's Ramayan and Mahabharat."
+  },
+  {
+   "name": "Yakima Canutt",
+   "life": "1895 – 1986",
+   "role": "Stuntman and action director",
+   "from": "USA",
+   "note": "Invented stunt safety gear and directed Ben-Hur's chariot race with Andrew Marton."
+  },
+  {
+   "name": "Ray Harryhausen",
+   "life": "1920 – 2013",
+   "role": "Stop-motion animator",
+   "from": "USA",
+   "note": "Created the skeleton fight in Jason and the Argonauts."
+  },
+  {
+   "name": "Dick Smith",
+   "life": "1922 – 2014",
+   "role": "Make-up artist",
+   "from": "USA",
+   "note": "Invented multi-piece prosthetics; worked on The Exorcist and won an Oscar for Amadeus."
+  },
+  {
+   "name": "Rick Baker",
+   "life": "born 1950",
+   "role": "Make-up effects artist",
+   "from": "USA",
+   "note": "Won the first competitive make-up Oscar and seven in all."
+  },
+  {
+   "name": "Stan Winston",
+   "life": "1946 – 2008",
+   "role": "Creature and animatronics designer",
+   "from": "USA",
+   "note": "Built the Terminator, the Alien Queen and Jurassic Park's T. rex."
+  },
+  {
+   "name": "Nick Allder",
+   "life": "born 1943",
+   "role": "Special effects supervisor",
+   "from": "UK",
+   "note": "Shared the visual effects Oscar for Alien."
+  },
+  {
+   "name": "Chris Corbould",
+   "life": "born 1958",
+   "role": "Special effects supervisor",
+   "from": "UK",
+   "note": "Built Inception's rotating hallway and worked on 15 James Bond films."
+  }
+ ],
+ "series": [],
+ "facts": [
+  "The first film special effect, in 1895, was simply stopping the camera and swapping an actor for a dummy.",
+  "King Kong's famous puppet was only about 14 to 18 inches tall.",
+  "The Wizard of Oz tornado was a long sock of muslin cloth, not a real storm.",
+  "Jaws's mechanical shark was nicknamed Bruce after Steven Spielberg's lawyer.",
+  "Breakaway glass used to be made from sugar; professional sets now mostly use special brittle plastic resin.",
+  "The set for Ben-Hur's chariot race covered 18 acres.",
+  "Mughal-e-Azam's mirror palace set took two years to build.",
+  "Rick Baker holds the record for most make-up Oscars, with seven.",
+  "For Tenet, buying a real Boeing 747 was cheaper than faking the crash with models and computers."
+ ],
+ "sources": [
+  {
+   "title": "Special effect",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Special_effect"
+  },
+  {
+   "title": "Practical effect",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Practical_effect"
+  },
+  {
+   "title": "The Execution of Mary Stuart",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/The_Execution_of_Mary_Stuart"
+  },
+  {
+   "title": "The Vanishing Lady",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/The_Vanishing_Lady"
+  },
+  {
+   "title": "Georges Méliès",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Georges_M%C3%A9li%C3%A8s"
+  },
+  {
+   "title": "Georges Méliès",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Georges-Melies"
+  },
+  {
+   "title": "Schüfftan process",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sch%C3%BCfftan_process"
+  },
+  {
+   "title": "Metropolis (1927 film)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Metropolis_(1927_film)"
+  },
+  {
+   "title": "King Kong (1933 film)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/King_Kong_(1933_film)"
+  },
+  {
+   "title": "Willis H. O'Brien",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Willis_H._O%27Brien"
+  },
+  {
+   "title": "A. Arnold Gillespie",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/A._Arnold_Gillespie"
+  },
+  {
+   "title": "The Wizard of Oz (1939 film)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/The_Wizard_of_Oz_(1939_film)"
+  },
+  {
+   "title": "Academy Award for Best Visual Effects",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Academy_Award_for_Best_Visual_Effects"
+  },
+  {
+   "title": "Motion-picture technology: Special effects",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/technology/motion-picture-technology/Special-effects"
+  },
+  {
+   "title": "Royal Wedding",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Royal_Wedding"
+  },
+  {
+   "title": "Mughal-e-Azam",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mughal-e-Azam"
+  },
+  {
+   "title": "Ben-Hur (1959 film)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ben-Hur_(1959_film)"
+  },
+  {
+   "title": "2001: A Space Odyssey (film)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey"
+  },
+  {
+   "title": "Babubhai Mistry",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Babubhai_Mistry"
+  },
+  {
+   "title": "Jaws (film)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jaws_(film)"
+  },
+  {
+   "title": "Sholay",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sholay"
+  },
+  {
+   "title": "Industrial Light & Magic",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Industrial_Light_%26_Magic"
+  },
+  {
+   "title": "Star Wars (film)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Star_Wars_(film)"
+  },
+  {
+   "title": "Nick Allder",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nick_Allder"
+  },
+  {
+   "title": "Alien (film)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Alien_(film)"
+  },
+  {
+   "title": "Rick Baker",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Rick_Baker"
+  },
+  {
+   "title": "Academy Award for Best Makeup and Hairstyling",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Academy_Award_for_Best_Makeup_and_Hairstyling"
+  },
+  {
+   "title": "The Thing (1982 film)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/The_Thing_(1982_film)"
+  },
+  {
+   "title": "Twilight Zone accident",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Twilight_Zone_accident"
+  },
+  {
+   "title": "Stan Winston",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Stan_Winston"
+  },
+  {
+   "title": "Rexy",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Rexy"
+  },
+  {
+   "title": "Jurassic Park: Effects Team Brings Dinosaurs Back from Extinction",
+   "publisher": "American Cinematographer (ASC)",
+   "url": "https://theasc.com/article/jurassic-park-effects-team-brings-dinosaurs-back/"
+  },
+  {
+   "title": "Wētā Workshop",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/W%C4%93t%C4%81_Workshop"
+  },
+  {
+   "title": "Inception",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Inception"
+  },
+  {
+   "title": "Chris Corbould",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chris_Corbould"
+  },
+  {
+   "title": "Mad Max: Fury Road",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mad_Max:_Fury_Road"
+  },
+  {
+   "title": "Tenet (film)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tenet_(film)"
+  },
+  {
+   "title": "How Oppenheimer pulled off its Trinity test sequence",
+   "publisher": "Variety",
+   "url": "https://variety.com/2023/artisans/news/how-oppenheimer-pulled-off-trinity-test-sequence-1235676487/"
+  },
+  {
+   "title": "Sugar glass",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sugar_glass"
+  },
+  {
+   "title": "Ray Harryhausen",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ray_Harryhausen"
+  },
+  {
+   "title": "Eugen Schüfftan",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Eugen_Sch%C3%BCfftan"
+  },
+  {
+   "title": "Dick Smith (make-up artist)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Dick_Smith_(make-up_artist)"
+  },
+  {
+   "title": "John Chambers (make-up artist)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/John_Chambers_(make-up_artist)"
+  },
+  {
+   "title": "Yakima Canutt",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Yakima_Canutt"
+  },
+  {
+   "title": "The 12th Academy Awards (1940)",
+   "publisher": "Academy of Motion Picture Arts and Sciences (oscars.org)",
+   "url": "https://www.oscars.org/oscars/ceremonies/1940"
+  },
+  {
+   "title": "Sorry 'Twisters,' 'The Wizard of Oz' Has the Best Tornado in Movie History",
+   "publisher": "Collider",
+   "url": "https://collider.com/wizard-of-oz-tornado/"
+  }
+ ]
+}

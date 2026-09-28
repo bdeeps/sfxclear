@@ -1,0 +1,122 @@
+{
+  "slug": "sfxclear",
+  "box": 56,
+  "date": "2026-10-14",
+  "title": "SFXClear",
+  "question": "How do practical special effects work?",
+  "hook": "Film rain is often heavier than a monsoon cloudburst, yet it vanishes on camera unless it is lit from behind. Run a rain bar and a wind machine, shatter a sugar-glass window, fly a performer on a counterweight, drive an animatronic's servos and fire a gas flame bar, safety checklist first.",
+  "thumbText": "HOW MOVIE EFFECTS WORK",
+  "field": "film",
+  "minutes": 15,
+  "tags": [
+    "special effects",
+    "practical effects",
+    "SFX",
+    "VFX",
+    "film",
+    "filmmaking",
+    "rain machine",
+    "wind machine",
+    "backlight",
+    "sugar glass",
+    "breakaway",
+    "balsa",
+    "wire work",
+    "stunts",
+    "ratchet",
+    "gimbal",
+    "rotating room",
+    "animatronics",
+    "servo",
+    "prosthetic makeup",
+    "pyrotechnics",
+    "fire safety",
+    "fireball",
+    "deflagration",
+    "Indian cinema",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "SFX vs VFX",
+      "text": "Special effects are real, physical tricks done on set, in front of the camera. Visual effects are added later on computers. Practical effects give real light on faces and real reactions. The SFX department is led by a supervisor, with technicians and a licensed pyrotechnic operator for anything with fire."
+    },
+    {
+      "title": "Weather on demand",
+      "text": "Rain bars, wind machines, paper snow and hazers make weather on cue. Water drops scatter light mostly forwards, so film rain must be backlit to show, and it is often several times heavier than a 100 mm-an-hour cloudburst. At 15 m/s a wind machine pushes on an actor with about 110 N."
+    },
+    {
+      "title": "Breakaways",
+      "text": "Sugar glass, resin bottles, balsa chairs and foam rubble look solid but break easily into light, blunt pieces. A 30 cm foam block weighs about 0.8 kg against 65 kg for concrete, so its landing energy (m g h) is 80 times smaller."
+    },
+    {
+      "title": "Rigs and wires",
+      "text": "Wire flying hangs a harnessed performer over pulleys to a counterweight: a = (M − m) g / (M + m), with wires rated many times the load. Ratchets yank stunt performers onto crash mats, gimbals tilt cars to fake bends, and a rotating room turns with its camera so the actor seems to walk up the walls."
+    },
+    {
+      "title": "Creatures and make-up",
+      "text": "Animatronics hide servos under foam or silicone skin, driven by puppeteers out of shot with a 1 to 2 ms pulse 50 times a second. Prosthetic make-up goes lifecast, clay sculpt, mould, foam appliance, then glue and paint, and can age an actor by decades."
+    },
+    {
+      "title": "Fire, safety first",
+      "text": "Film fire is mostly gas burners run by a licensed operator, with rehearsals, a fire marshal, shields and an emergency stop. Radiant heat falls with distance squared. A fireball is fuel burning in open air at metres per second: a huge look with a gentle push, unlike a shock wave."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Special effects (SFX)",
+      "def": "Physical effects created for real on set and captured in camera."
+    },
+    {
+      "term": "Visual effects (VFX)",
+      "def": "Effects created or added on computers after the shoot."
+    },
+    {
+      "term": "Backlight",
+      "def": "A light behind the subject shining towards the lens; it makes rain, smoke and hair glow."
+    },
+    {
+      "term": "Breakaway",
+      "def": "A prop built to break easily and safely, like sugar glass or a balsa chair."
+    },
+    {
+      "term": "Counterweight",
+      "def": "A weight on the other end of a line that balances or lifts a performer."
+    },
+    {
+      "term": "Gimbal",
+      "def": "A powered platform that tilts and shakes a set piece such as a car."
+    },
+    {
+      "term": "Animatronic",
+      "def": "A mechanical puppet moved by servos or cables under a lifelike skin."
+    },
+    {
+      "term": "Prosthetic appliance",
+      "def": "A soft foam latex or silicone piece glued on to change an actor's face."
+    },
+    {
+      "term": "Deflagration",
+      "def": "Burning that spreads slower than sound, like a film fireball: bright but gentle."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "sfxclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
